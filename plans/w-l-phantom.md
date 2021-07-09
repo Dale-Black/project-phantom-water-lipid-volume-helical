@@ -39,7 +39,7 @@ Boil water
 | Water/Lipid       | 99:1   80:20   60:40 | 40:60   20:80   5:95  |
 | -----------       | -------------------- | --------------------- |
 | Type of emulsion  | Oil in water         | Water in oil          |
-| Water             | Distilled water                              |
-| Lipid             | Vegetable oil                                |
-| Emulsifier        | Soybean lecithin                             |
+| Water             | Distilled water      | Distilled water       |
+| Lipid             | Vegetable oil        | Vegetable oil         |
+| Emulsifier        | Soybean lecithin     | Soybean lecithin      |
 | Coagulant         | Agar                 | Oil solidifying agent |
